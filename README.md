@@ -19,7 +19,6 @@ These datasets combined to form a single DATA MODULE.
 
 # Software used: IBM Cognos:
 
-This case study comprises a pdf where the detailed solution is given.
 
 # Introduction:
 
