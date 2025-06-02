@@ -1,6 +1,3 @@
-# NOTE: Please look at the solution PDF as visualisation report above.
-
-
 # Data Visualisation-Pizza Data set: Problem Statements-
 
 This case study aims to address the following queries:
@@ -60,8 +57,6 @@ company's bottom line
    
 5. ![image](https://github.com/dubeysanskar/visualisation-pizza-dummy/assets/119898620/5a84ad8b-6c34-4bef-b281-0a5ca09b26a6)
     
-
-For more details download the detailed report visualisation report above!!!
 
 # THANKS FOR READING!!!
 
